@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3wpJKdLBmbzSMZagySKHjmjNZC24CNzlnJ9ooKzE6VUxr8MYFqkYHE8jbASlWwTY65OkirWMb/XUj9FHb8uHg==",
+  "success": true,
+  "projectFilePath": "/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/WordPress_WebView_App.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/siongii/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/siongii/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/siongii/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
