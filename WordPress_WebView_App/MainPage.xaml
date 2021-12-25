@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WordPress_WebView_App.MainPage">
+
+    <StackLayout>
+        <Label
+            x:Name="displayLabel"
+            HorizontalOptions="StartAndExpand"
+            HorizontalTextAlignment="Start"
+            LineBreakMode="TailTruncation"
+            TextColor="Blue"
+            VerticalOptions="Center"
+            VerticalTextAlignment="Center">
+        </Label>
+         <WebView
+            x:Name="mainWebView"
+            HorizontalOptions="FillAndExpand"
+            Source="https://rdfarm.net"
+            Navigated="mainWebView_Navigated"
+            VerticalOptions="FillAndExpand" />
+
+        <StackLayout Orientation="Horizontal">
+            <Button
+                Clicked="GoBackButton_Clicked"
+                HorizontalOptions="FillAndExpand"
+                Text="上一頁"
+            />
+            <Button
+                Clicked="ReloadButton_Clicked"
+                HorizontalOptions="FillAndExpand"
+                Text="重新載入"
+            />
+            <Button
+                Clicked="GoForwardButton_Clicked"
+                HorizontalOptions="FillAndExpand"
+                Text="下一頁"
+            />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
