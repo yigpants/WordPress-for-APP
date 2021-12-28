@@ -12,7 +12,9 @@ iOS 8.0 ~ 15.2
 將 MainPage.xaml 這隻程式中的Source 網址更換成自己的即可進行打包
 
 後續打包流程請參考網頁說明 
+
 https://rdfarm.net/xamarin-forms-webview-app/
+
 
 2021/12/28更新
 
