@@ -5,7 +5,7 @@
 
 預設支援 
 Android 5.0 ~ 11.0(API21 ~ API30)
-iOS 9.0 ~ 15.2
+iOS .0 ~ 15.2
 
 更換說明
 將 MainPage.xaml 這隻程式中的Source 更換成自己的網域名稱即可
