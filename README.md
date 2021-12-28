@@ -1,7 +1,5 @@
 # WordPress-for-APP
-基於Xamarin.Forms的 WebView技術所開發
-
-可快速將手機網頁做成APP形式
+基於Xamarin.Forms的 WebView技術所開發，可快速將手機網頁做成APP形式
 
 版本預設支援
 
@@ -12,7 +10,6 @@ iOS 8.0 ~ 15.2
 將 MainPage.xaml 這隻程式中的Source 網址更換成自己的即可進行打包
 
 後續打包流程請參考網頁說明 
-
 https://rdfarm.net/xamarin-forms-webview-app/
 
 
