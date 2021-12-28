@@ -5,7 +5,7 @@
 
 版本預設支援
 
-Android 5.0 ~ 11.0(API21 ~ API30)
+Android 5.0 ~ 11.0(API21 ~ API30)、
 iOS 8.0 ~ 15.2
 
 更換說明
