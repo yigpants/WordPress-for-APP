@@ -1,7 +1,7 @@
 # WordPress-for-APP
 基於Xamarin.Forms的 WebView技術所開發，可快速將手機網頁做成APP形式
 
-版本預設支援
+版本支援
 
 Android 5.0 ~ 11.0(API21 ~ API30)、
 iOS 8.0 ~ 15.2
