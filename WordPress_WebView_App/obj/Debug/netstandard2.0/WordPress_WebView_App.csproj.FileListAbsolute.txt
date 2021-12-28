@@ -1,0 +1,15 @@
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/bin/Debug/netstandard2.0/WordPress_WebView_App.deps.json
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/bin/Debug/netstandard2.0/WordPress_WebView_App.dll
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/bin/Debug/netstandard2.0/ref/WordPress_WebView_App.dll
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/bin/Debug/netstandard2.0/WordPress_WebView_App.pdb
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.csproj.AssemblyReference.cache
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.AssemblyInfoInputs.cache
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.AssemblyInfo.cs
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.csproj.CoreCompileInputs.cache
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.dll
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/ref/WordPress_WebView_App.dll
+/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App/obj/Debug/netstandard2.0/WordPress_WebView_App.pdb

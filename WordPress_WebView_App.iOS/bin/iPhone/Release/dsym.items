@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="WordPress_WebView_App.iOS.app">
+      <NativeExecutable>WordPress_WebView_App.iOS</NativeExecutable>
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NoDSymUtil>false</NoDSymUtil>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <SymbolsList>/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

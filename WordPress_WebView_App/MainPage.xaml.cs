@@ -13,6 +13,8 @@ namespace WordPress_WebView_App
         public MainPage()
         {
             InitializeComponent();
+            
+            
         }
 
         private void GoBackButton_Clicked(Object sender, EventArgs e)

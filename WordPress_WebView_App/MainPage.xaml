@@ -4,6 +4,12 @@
              x:Class="WordPress_WebView_App.MainPage">
 
     <StackLayout>
+        <StackLayout.Padding>
+            <OnPlatform 
+                x:TypeArguments="Thickness"
+                iOS="0,35,0,25"
+                Android="10,0,0,0"/>
+        </StackLayout.Padding>
         <Label
             x:Name="displayLabel"
             HorizontalOptions="StartAndExpand"
@@ -12,6 +18,7 @@
             TextColor="Blue"
             VerticalOptions="Center"
             VerticalTextAlignment="Center">
+
         </Label>
          <WebView
             x:Name="mainWebView"
@@ -22,19 +29,23 @@
 
         <StackLayout Orientation="Horizontal">
             <Button
+
                 Clicked="GoBackButton_Clicked"
                 HorizontalOptions="FillAndExpand"
                 Text="上一頁"
+                TextColor="Black"
             />
             <Button
                 Clicked="ReloadButton_Clicked"
                 HorizontalOptions="FillAndExpand"
                 Text="重新載入"
+                TextColor="Black"
             />
             <Button
                 Clicked="GoForwardButton_Clicked"
                 HorizontalOptions="FillAndExpand"
                 Text="下一頁"
+                TextColor="Black"
             />
         </StackLayout>
     </StackLayout>

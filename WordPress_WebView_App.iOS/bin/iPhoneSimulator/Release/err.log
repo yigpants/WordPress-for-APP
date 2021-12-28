@@ -1,0 +1,18 @@
+objc[16293]: Class NSURLSessionDelegate is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (0x7fff87c19608) and /Users/siongii/Library/Developer/CoreSimulator/Devices/29DB07DD-A1EA-4C6B-B22A-A6A278E63B27/data/Containers/Bundle/Application/9FE33CA7-CA78-4C83-8B1D-DD96D51CA9FE/WordPress_WebView_App.iOS.app/WordPress_WebView_App.iOS (0x10c1a0f40). One of the two will be used. Which one is undefined.
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2021-12-28 09:54:19.560612+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16293
+2021-12-28 09:54:19.561009+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskCopyDebugDescription: WordPress_WebVie[16293]/0#-1 LF=0
+2021-12-28 09:54:19.571431+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16293
+2021-12-28 09:54:19.571903+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskCopyDebugDescription: WordPress_WebVie[16293]/0#-1 LF=0
+2021-12-28 09:54:19.966477+0800 WordPress_WebView_App.iOS[16293:722181] [unspecified] container_system_group_path_for_identifier: error = ((container_error_t)98) NOT_CODESIGNED
+2021-12-28 09:54:19.966657+0800 WordPress_WebView_App.iOS[16293:722181] [MC] Error getting system group container for systemgroup.com.apple.configurationprofiles: 98
+2021-12-28 09:54:19.966915+0800 WordPress_WebView_App.iOS[16293:722181] [MC] Failed to get profile system group container path. Overriding with expected path: /Users/siongii/Library/Developer/CoreSimulator/Devices/29DB07DD-A1EA-4C6B-B22A-A6A278E63B27/data/Containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2021-12-28 09:54:19.973783+0800 WordPress_WebView_App.iOS[16293:722231] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16293
+2021-12-28 09:54:19.974183+0800 WordPress_WebView_App.iOS[16293:722231] SecTaskCopyDebugDescription: WordPress_WebVie[16293]/0#-1 LF=0
+2021-12-28 09:54:19.985480+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16293
+2021-12-28 09:54:19.985879+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskCopyDebugDescription: WordPress_WebVie[16293]/0#-1 LF=0
+2021-12-28 09:54:19.986218+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16293
+2021-12-28 09:54:19.986550+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskCopyDebugDescription: WordPress_WebVie[16293]/0#-1 LF=0
+2021-12-28 09:54:20.175551+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16293
+2021-12-28 09:54:20.175948+0800 WordPress_WebView_App.iOS[16293:722181] SecTaskCopyDebugDescription: WordPress_WebVie[16293]/0#-1 LF=0
+2021-12-28 09:54:20.380350+0800 WordPress_WebView_App.iOS[16293:722181] [unspecified] container_system_group_path_for_identifier: error = ((container_error_t)98) NOT_CODESIGNED

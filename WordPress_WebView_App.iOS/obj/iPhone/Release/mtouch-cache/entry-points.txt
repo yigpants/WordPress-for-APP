@@ -1,0 +1,87 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_managed_ref
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_exception
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_exception
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/siongii/Projects/WordPress_WebView_App/WordPress_WebView_App.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
